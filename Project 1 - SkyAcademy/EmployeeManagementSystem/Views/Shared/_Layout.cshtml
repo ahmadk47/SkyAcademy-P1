@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Skyline HR Solutions</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+        :root {
+            --primary: #2A5C82;
+            --secondary: #5BA4E6;
+            --accent: #FF6B6B;
+            --light: #F8F9FA;
+            --dark: #212529;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--light);
+        }
+
+        .navbar {
+            background: var(--primary);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            padding: 0.8rem 0;
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 1.6rem;
+            color: white !important;
+            display: flex;
+            align-items: center;
+        }
+
+        .nav-link {
+            color: rgba(255,255,255,0.9) !important;
+            padding: 0.6rem 1rem;
+            border-radius: 6px;
+            transition: 0.3s;
+        }
+
+            .nav-link:hover, .nav-link.active {
+                background: var(--secondary);
+                color: white !important;
+            }
+
+        main {
+            margin-top: 3rem;
+            min-height: calc(100vh - 250px);
+        }
+
+        .footer {
+            background: var(--primary);
+            color: white;
+            padding: 2rem 0;
+            margin-top: 4rem;
+            text-align: center;
+        }
+
+            .footer a {
+                color: rgba(255,255,255,0.8);
+                text-decoration: none;
+            }
+
+                .footer a:hover {
+                    color: white;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">Sky Employee Management</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="mainNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewContext.RouteData.Values["Controller"]?.ToString() == "Employee" ? "active" : "")" asp-controller="Employees" asp-action="Index">
+                                <i class="bi bi-people"></i> Employees
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewContext.RouteData.Values["Controller"]?.ToString() == "VacationRequest" ? "active" : "")" asp-controller="VacationRequests" asp-action="Create">
+                                <i class="bi bi-send-plus"></i> New Request
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Skyline HR Solutions. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

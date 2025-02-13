@@ -1,0 +1,33 @@
+﻿@using EmployeeManagementSystem.DTOs;
+@model IEnumerable<EmployeeManagementSystem.DTOs.EmployeeDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">
+        No data found. <a asp-action="SeedData" class="alert-link">Seed initial data</a>
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Employee Number</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Number</td>
+                <td>@item.Name</td>
+                <td>@item.Department</td>
+                <td>@item.Salary.ToString("C2")</td>
+            </tr>
+        }
+    </tbody>
+</table>
