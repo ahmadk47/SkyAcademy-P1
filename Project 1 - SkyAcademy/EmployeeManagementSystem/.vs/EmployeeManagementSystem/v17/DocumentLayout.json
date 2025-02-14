@@ -1,137 +1,157 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\controllers\\vacationrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\vacationrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\controllers\\requeststatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\requeststatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\models\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\dtos\\vacationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\vacationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\migrations\\20250213125945_approveddeclinedmodified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20250213125945_approveddeclinedmodified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\views\\vacationrequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\vacationrequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\views\\vacationrequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\vacationrequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\models\\vacationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\vacationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\services\\vacationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:services\\vacationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\views\\vacationrequests\\pendingrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\vacationrequests\\pendingrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\vacationrequests\\pendingrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\vacationrequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\vacationrequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\controllers\\vacationrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\vacationrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\migrations\\20250212204740_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20250212204740_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\dtos\\pendingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\controllers\\requeststatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\requeststatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\models\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\dtos\\vacationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\vacationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\migrations\\20250213125945_approveddeclinedmodified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20250213125945_approveddeclinedmodified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\vacationrequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\vacationrequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\models\\vacationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\vacationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\services\\vacationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:services\\vacationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\migrations\\20250212204740_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20250212204740_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\dtos\\pendingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\pendingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\dtos\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\dtos\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\employeemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\employeemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\models\\requeststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\models\\requeststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:models\\requeststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\sky academy\\project 1\\employeemanagementsystem\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|c:\\users\\ahmad\\desktop\\github\\skyacademy-p1\\project 1 - skyacademy\\employeemanagementsystem\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A6F54CD9-3E25-4167-85BD-EFF8EB9FFB5C}|EmployeeManagementSystem.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -142,52 +162,207 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VacationType.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\VacationType.cs",
-              "RelativeDocumentMoniker": "Models\\VacationType.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\VacationType.cs",
-              "RelativeToolTip": "Models\\VacationType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:25:17.334Z"
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:19:30.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T20:50:35.131Z"
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:06:06.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T11:48:33.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBcAAAAkAAAAAAAAAA==",
+              "Title": "VacationRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\VacationRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VacationRequestsController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\VacationRequestsController.cs",
+              "RelativeToolTip": "Controllers\\VacationRequestsController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAArwHcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:24:04.21Z",
+              "WhenOpened": "2025-02-12T19:55:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestStatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\RequestStatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RequestStatesController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\RequestStatesController.cs",
+              "RelativeToolTip": "Controllers\\RequestStatesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:40:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:28:57.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwHcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T20:05:04.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\VacationRequests\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\VacationRequests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\VacationRequests\\Index.cshtml",
+              "RelativeToolTip": "Views\\VacationRequests\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T21:05:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PendingRequests.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\VacationRequests\\PendingRequests.cshtml",
+              "RelativeDocumentMoniker": "Views\\VacationRequests\\PendingRequests.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\VacationRequests\\PendingRequests.cshtml",
+              "RelativeToolTip": "Views\\VacationRequests\\PendingRequests.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T20:04:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:20:28.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-14T11:59:33.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T20:03:11.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwEMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:39:55.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Services\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Services\\EmployeeRepository.cs",
+              "RelativeToolTip": "Services\\EmployeeRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwEIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:56:39.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VacationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\VacationRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\VacationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\VacationRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\VacationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:57:39.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\VacationRequests\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\VacationRequests\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\VacationRequests\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\VacationRequests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\VacationRequests\\Create.cshtml",
               "RelativeToolTip": "Views\\VacationRequests\\Create.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -195,101 +370,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VacationRequestsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\VacationRequestsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VacationRequestsController.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\VacationRequestsController.cs",
-              "RelativeToolTip": "Controllers\\VacationRequestsController.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAhwLIAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:55:26.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T19:24:04.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VacationRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\VacationRequestDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\VacationRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\VacationRequestDTO.cs",
-              "RelativeToolTip": "DTOs\\VacationRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:57:39.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T20:50:35.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RequestStatesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\RequestStatesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RequestStatesController.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\RequestStatesController.cs",
-              "RelativeToolTip": "Controllers\\RequestStatesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "VacationType.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\VacationType.cs",
+              "RelativeDocumentMoniker": "Models\\VacationType.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\VacationType.cs",
+              "RelativeToolTip": "Models\\VacationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:40:42.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApplicationDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:28:57.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VacationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\VacationRequest.cs",
-              "RelativeDocumentMoniker": "Models\\VacationRequest.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\VacationRequest.cs",
-              "RelativeToolTip": "Models\\VacationRequest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwCsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:26:50.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T20:03:11.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250213125945_ApprovedDeclinedModified.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Migrations\\20250213125945_ApprovedDeclinedModified.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250213125945_ApprovedDeclinedModified.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Migrations\\20250213125945_ApprovedDeclinedModified.cs",
-              "RelativeToolTip": "Migrations\\20250213125945_ApprovedDeclinedModified.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T12:59:48.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T19:25:17.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "VacationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\VacationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\VacationRequest.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\VacationRequest.cs",
+              "RelativeToolTip": "Models\\VacationRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:26:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250213125945_ApprovedDeclinedModified.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Migrations\\20250213125945_ApprovedDeclinedModified.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250213125945_ApprovedDeclinedModified.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Migrations\\20250213125945_ApprovedDeclinedModified.cs",
+              "RelativeToolTip": "Migrations\\20250213125945_ApprovedDeclinedModified.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:59:48.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "VacationService.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Services\\VacationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Services\\VacationService.cs",
               "RelativeDocumentMoniker": "Services\\VacationService.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Services\\VacationService.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Services\\VacationService.cs",
               "RelativeToolTip": "Services\\VacationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,23 +442,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\VacationRequests\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\VacationRequests\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\VacationRequests\\Index.cshtml",
-              "RelativeToolTip": "Views\\VacationRequests\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAIAwwEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T21:05:29.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Views\\Employees\\Create.cshtml",
               "RelativeToolTip": "Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAACUAAAAAAAAAAAAswEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -321,11 +454,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,47 +466,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Services\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Services\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Services\\EmployeeRepository.cs",
-              "RelativeToolTip": "Services\\EmployeeRepository.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAApwEMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:56:39.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PendingRequests.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\VacationRequests\\PendingRequests.cshtml",
-              "RelativeDocumentMoniker": "Views\\VacationRequests\\PendingRequests.cshtml",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\VacationRequests\\PendingRequests.cshtml",
-              "RelativeToolTip": "Views\\VacationRequests\\PendingRequests.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T20:04:16.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwBgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:39:55.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "20250212204740_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Migrations\\20250212204740_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Migrations\\20250212204740_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250212204740_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Migrations\\20250212204740_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Migrations\\20250212204740_InitialCreate.cs",
               "RelativeToolTip": "Migrations\\20250212204740_InitialCreate.cs",
               "ViewState": "AgIAAI8AAAAAAAAAAAAAAJEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,11 +478,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -393,11 +490,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "EmployeeUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\EmployeeUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\EmployeeUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\EmployeeUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\EmployeeUpdateDto.cs",
               "RelativeToolTip": "DTOs\\EmployeeUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -405,11 +502,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeDTO.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
               "RelativeToolTip": "DTOs\\EmployeeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,11 +514,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "EmployeeDetailsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\EmployeeDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\EmployeeDetailsDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeDetailsDTO.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\EmployeeDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\EmployeeDetailsDTO.cs",
               "RelativeToolTip": "DTOs\\EmployeeDetailsDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -429,23 +526,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAswHEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T20:05:04.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "PendingRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\PendingRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\PendingRequestDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\PendingRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\DTOs\\PendingRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\DTOs\\PendingRequestDTO.cs",
               "RelativeToolTip": "DTOs\\PendingRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -453,11 +538,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -465,11 +550,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "PositionsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\PositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\PositionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PositionsController.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\PositionsController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\PositionsController.cs",
               "RelativeToolTip": "Controllers\\PositionsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -477,11 +562,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -489,11 +574,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\libman.json",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\libman.json",
               "RelativeDocumentMoniker": "libman.json",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\libman.json",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\libman.json",
               "RelativeToolTip": "libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -501,11 +586,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "EmployeeManagementSystem.csproj",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
               "RelativeDocumentMoniker": "EmployeeManagementSystem.csproj",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
               "RelativeToolTip": "EmployeeManagementSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -513,11 +598,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "RequestState.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\RequestState.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\RequestState.cs",
               "RelativeDocumentMoniker": "Models\\RequestState.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\RequestState.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\RequestState.cs",
               "RelativeToolTip": "Models\\RequestState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -525,11 +610,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\Position.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\Position.cs",
               "RelativeDocumentMoniker": "Models\\Position.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\Position.cs",
               "RelativeToolTip": "Models\\Position.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,11 +622,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Project 1\\EmployeeManagementSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\github\\SkyAcademy-P1\\Project 1 - SkyAcademy\\EmployeeManagementSystem\\Models\\Department.cs",
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

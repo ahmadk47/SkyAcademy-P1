@@ -4,17 +4,17 @@
 }
 
 <div class="container mt-4">
-    <h2>Pending Vacation Requests</h2>
+    <h2>@ViewData["Title"]</h2>
 
-    <table class="table table-hover">
-        <thead class="table-light">
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
             <tr>
                 <th>Employee</th>
                 <th>Description</th>
                 <th>Duration</th>
                 <th>Dates</th>
                 <th>Salary</th>
-                <th>Actions</th>
+                <th class="text-center">Actions</th>
             </tr>
         </thead>
         <tbody>
@@ -26,11 +26,16 @@
                     <td>@request.Duration</td>
                     <td>@request.StartDate.ToString("d") - @request.EndDate.ToString("d")</td>
                     <td>@request.Salary.ToString("C2")</td>
-                    <td>
+                    <td class="text-center">
                         <a asp-action="Approve" asp-route-id="@request.RequestId"
-                           class="btn btn-sm btn-success">Approve</a>
+                           class="btn btn-sm btn-success" title="Approve Request">
+                            Approve
+                        </a>
                         <a asp-action="Decline" asp-route-id="@request.RequestId"
-                           class="btn btn-sm btn-danger">Decline</a>
+                           class="btn btn-sm btn-danger" title="Decline Request"
+                           onclick="return confirm('Are you sure you want to decline this request?');">
+                            Decline
+                        </a>
                     </td>
                 </tr>
             }

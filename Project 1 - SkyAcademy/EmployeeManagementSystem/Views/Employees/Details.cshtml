@@ -1,60 +1,41 @@
 ﻿@model EmployeeManagementSystem.Models.Employee
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Employee Details";
 }
 
-<h1>Details</h1>
+<div class="container mt-4">
+    <div class="card shadow-sm border-0">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">Employee Details</h3>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 font-weight-bold">@Html.DisplayNameFor(model => model.EmployeeName)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.EmployeeName)</dd>
 
-<div>
-    <h4>Employee</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.EmployeeName)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.EmployeeName)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.GenderCode)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.GenderCode)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.VacationDaysLeft)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.VacationDaysLeft)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Salary)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Salary)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Department)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Department.DepartmentName)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Position)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Position.PositionName)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ReportedTo)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ReportedTo.EmployeeNumber)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.EmployeeNumber">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+                <dt class="col-sm-3 font-weight-bold">@Html.DisplayNameFor(model => model.GenderCode)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.GenderCode)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">@Html.DisplayNameFor(model => model.VacationDaysLeft)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.VacationDaysLeft)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">@Html.DisplayNameFor(model => model.Salary)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Salary)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">@Html.DisplayNameFor(model => model.Department)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Department.DepartmentName)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">@Html.DisplayNameFor(model => model.Position)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Position.PositionName)</dd>
+
+                <dt class="col-sm-3 font-weight-bold">@Html.DisplayNameFor(model => model.ReportedTo)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ReportedTo.EmployeeNumber)</dd>
+            </dl>
+        </div>
+        <div class="card-footer text-end">
+            <a asp-action="Edit" asp-route-id="@Model?.EmployeeNumber" class="btn btn-warning">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
 </div>

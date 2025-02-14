@@ -86,8 +86,23 @@
                             </a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link @(ViewContext.RouteData.Values["Controller"]?.ToString() == "Department" ? "active" : "")" asp-controller="VacationRequests" asp-action="Index">
+                                <i class="bi bi-hand-index"></i> All Requests
+                            </a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link @(ViewContext.RouteData.Values["Controller"]?.ToString() == "VacationRequest" ? "active" : "")" asp-controller="VacationRequests" asp-action="Create">
                                 <i class="bi bi-send-plus"></i> New Request
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewContext.RouteData.Values["Controller"]?.ToString() == "Department" ? "active" : "")" asp-controller="Departments" asp-action="Index">
+                                <i class="bi bi-building"></i> Departments
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewContext.RouteData.Values["Controller"]?.ToString() == "Pending Requests" ? "active" : "")" asp-controller="VacationRequests" asp-action="PendingRequests">
+                                <i class="bi bi-clock"></i> Pending Requests
                             </a>
                         </li>
                     </ul>
@@ -102,7 +117,7 @@
     </div>
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2025 Skyline HR Solutions. All rights reserved.</p>
+            <p>&copy; 2025 Sky Employees Management System. All rights reserved.</p>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

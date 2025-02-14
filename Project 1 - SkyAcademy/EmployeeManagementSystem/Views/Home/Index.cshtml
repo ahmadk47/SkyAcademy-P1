@@ -1,8 +1,36 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container text-center mt-5">
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <h1 class="display-4 text-primary">Welcome to Sky Employees Management System</h1>
+            <p class="lead text-secondary">Effortless Employee Management & Vacation Workflow</p>
+            <a href="/Employees" class="btn btn-primary btn-lg mt-3">
+                <i class="bi bi-people"></i> View Employees
+            </a>
+            <a href="/VacationRequests/Create" class="btn btn-success btn-lg mt-3">
+                <i class="bi bi-send-plus"></i> Request Vacation
+            </a>
+        </div>
+    </div>
+    <div class="row mt-5 justify-content-center">
+        <div class="col-md-4">
+            <div class="card shadow-sm p-4">
+                <i class="bi bi-building display-4 text-secondary"></i>
+                <h4 class="mt-3">Manage Departments</h4>
+                <p>Organize teams and assign employees efficiently.</p>
+                <a href="/Departments" class="btn btn-outline-primary">View Departments</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-sm p-4">
+                <i class="bi bi-clock display-4 text-secondary"></i>
+                <h4 class="mt-3">Pending Requests</h4>
+                <p>Review and approve vacation requests.</p>
+                <a href="/VacationRequests/PendingRequests" class="btn btn-outline-primary">Check Requests</a>
+            </div>
+        </div>
+    </div>
 </div>

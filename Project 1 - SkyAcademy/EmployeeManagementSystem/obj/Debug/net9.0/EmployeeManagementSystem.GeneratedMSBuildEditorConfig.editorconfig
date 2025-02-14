@@ -17,137 +17,137 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeeManagementSystem
 build_property.RootNamespace = EmployeeManagementSystem
-build_property.ProjectDir = C:\Users\Ahmad\Desktop\Sky Academy\Project 1\EmployeeManagementSystem\
+build_property.ProjectDir = C:\Users\Ahmad\Desktop\github\SkyAcademy-P1\Project 1 - SkyAcademy\EmployeeManagementSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ahmad\Desktop\Sky Academy\Project 1\EmployeeManagementSystem
+build_property.MSBuildProjectDirectory = C:\Users\Ahmad\Desktop\github\SkyAcademy-P1\Project 1 - SkyAcademy\EmployeeManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Departments/Create.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Departments/Delete.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Departments/Details.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Departments/Edit.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Departments/Index.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Employees/Create.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Employees/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Employees/Delete.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Employees/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Employees/Details.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Employees/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Employees/Edit.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Employees/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Employees/Index.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Employees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Home/Index.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Home/Privacy.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Positions/Create.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Positions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Positions/Delete.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Positions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Positions/Details.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Positions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Positions/Edit.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Positions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Positions/Index.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Positions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/RequestStates/Create.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/RequestStates/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFN0YXRlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/RequestStates/Delete.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/RequestStates/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFN0YXRlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/RequestStates/Details.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/RequestStates/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFN0YXRlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/RequestStates/Edit.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/RequestStates/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFN0YXRlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/RequestStates/Index.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/RequestStates/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFN0YXRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Shared/Error.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/VacationRequests/Create.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/VacationRequests/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25SZXF1ZXN0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/VacationRequests/Edit.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/VacationRequests/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25SZXF1ZXN0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/VacationRequests/Index.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/VacationRequests/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25SZXF1ZXN0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/VacationRequests/PendingRequests.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/VacationRequests/PendingRequests.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25SZXF1ZXN0c1xQZW5kaW5nUmVxdWVzdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/_ViewImports.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/_ViewStart.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ahmad/Desktop/Sky Academy/Project 1/EmployeeManagementSystem/Views/Shared/_Layout.cshtml]
+[C:/Users/Ahmad/Desktop/github/SkyAcademy-P1/Project 1 - SkyAcademy/EmployeeManagementSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-99m38ankfr

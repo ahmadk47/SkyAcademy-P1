@@ -65,7 +65,7 @@ namespace EmployeeManagementSystem.Controllers
                 {
                     var employee = _context.Employees
                         .First(e => e.EmployeeNumber == $"E{i:00000}");
-                    employee.ReportedToEmployeeNumber = $"E{i - 1:00000}";
+                    employee.ReportedToEmployeeNumber = $"E000001";
                 }
                 _context.SaveChanges();
 
